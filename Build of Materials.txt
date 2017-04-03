@@ -1,0 +1,8 @@
+10k potentiometer		=	2
+2 pins female header		=	4
+10k resistor			=	2
+LM386				=	2
+10uf - Electrolytic cap		=	2
+0.1uf - Ceramic	cap		=	2
+220uf - Electrolytic cap	=	1
+LDR / Photo Resistor		=	1
